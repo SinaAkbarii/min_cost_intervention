@@ -8,4 +8,5 @@ utils includes certain necessary base functions, and admg contains the main clas
 min_cost.py illustrates an example of calling different algorithms provided in this work.
 
 To cite this work:
+
 Akbari, Sina, Jalal Etesami, and Negar Kiyavash. "Minimum cost intervention design for causal effect identification." International Conference on Machine Learning. PMLR, 2022.
